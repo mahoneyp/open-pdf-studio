@@ -1,8 +1,0 @@
-node_modules
-open-pdf-studio/node_modules
-target
-dist
-open-pdf-studio/dist
-open-pdf-studio/src-tauri/target
-.git
-.github
