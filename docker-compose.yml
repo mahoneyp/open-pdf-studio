@@ -2,4 +2,4 @@ services:
   open-pdf-studio:
     build: .
     ports:
-      - "8080:80"
+      - "8053:80"
