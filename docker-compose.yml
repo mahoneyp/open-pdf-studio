@@ -1,5 +1,7 @@
 services:
   open-pdf-studio:
     build: .
+    container_name: open-pdf-studio
     ports:
       - "8053:80"
+    restart: unless-stopped
